@@ -1,12 +1,6 @@
-[
-  {
-    "title": "🧩 지링크",
-    "subtitle": "설치 방법 · 로그인 오류 · 권한 설정",
-    "image": "https://via.placeholder.com/400x240?text=Zilink"
-  },
-  {
-    "title": "🧰 모렉스",
-    "subtitle": "장비 연결 실패 · 네트워크 포트 · 펌웨어 업데이트",
-    "image": "https://via.placeholder.com/400x240?text=Morex"
-  }
-]
+{
+  "data": [
+    { "title": "🍀 지링크", "subtitle": "설치·로그인·권한", "buttonLabel": "지링크 선택", "value": "지링크" },
+    { "title": "🧰 모렉스", "subtitle": "연결실패·포트·업데이트", "buttonLabel": "모렉스 선택", "value": "모렉스" }
+  ]
+}
