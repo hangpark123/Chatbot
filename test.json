@@ -1,6 +1,19 @@
 {
   "data": [
-    { "title": "🍀 지링크", "subtitle": "설치·로그인·권한", "buttonLabel": "지링크 선택", "value": "지링크" },
-    { "title": "🧰 모렉스", "subtitle": "연결실패·포트·업데이트", "buttonLabel": "모렉스 선택", "value": "모렉스" }
+    {
+      "title": "지링크",
+      "subtitle": "설치, 로그인, 권한 관련 자주 묻는 질문",
+      "value": "GLINK"
+    },
+    {
+      "title": "하드웨어",
+      "subtitle": "카메라, 마이크, 장비 연결 관련 질문",
+      "value": "HARDWARE"
+    },
+    {
+      "title": "기타",
+      "subtitle": "계정, 요금제, 기타 문의",
+      "value": "ETC"
+    }
   ]
 }
