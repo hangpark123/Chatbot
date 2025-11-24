@@ -2,16 +2,12 @@
   "data": [
     {
       "title": "지링크-설치",
-      "subtitle": "지링크 앱은 MDM (Mobile Device Management) 을 통해 자동설치됩니다.
-네트워크에 연결된 법인폰에 정책을 배포하여 설치되며 그 과정 중 핸드폰의 기본 설정과 고객 편의를 위한 앱들도 같이 설치가 진행됩니다.",
+      "subtitle": "지링크 앱은 MDM (Mobile Device Management) 을 통해 자동설치됩니다. 네트워크에 연결된 법인폰에 정책을 배포하여 설치되며 그 과정 중 핸드폰의 기본 설정과 고객 편의를 위한 앱들도 같이 설치가 진행됩니다.",
       "value": "GLINK"
     },
     {
       "title": "지링크-로그인",
-      "subtitle": "1. 접속 URL은 https://tm.zilink.co.kr/  
-      2.대리점명·ID·초기 PW를 입력 
-3.'비밀유지 서약'에 체크한 뒤 로그인하세요. 
-4. 초기 비밀번호라면 규칙에 맞게 변경한 후 Home 화면으로 이동합니다. ",
+      "subtitle": "1. 접속 URL은 https://tm.zilink.co.kr/  2.대리점명·ID·초기 PW를 입력 3.'비밀유지 서약'에 체크한 뒤 로그인하세요. 4. 초기 비밀번호라면 규칙에 맞게 변경한 후 Home 화면으로 이동합니다. ",
       "value": "HARDWARE"
     },
     {
